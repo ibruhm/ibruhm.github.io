@@ -1,3 +1,3 @@
 # ibruhm.github.io
-website setup
-what is up goonz house
+
+Hello anyone reading this, this is the WIP source code for my portfolio website.
